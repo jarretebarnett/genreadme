@@ -16,11 +16,11 @@ This project is a backend JavaScript application that combines inquirer prompts 
 
 ## Installation
 
-The project can be cloned from this repository to a local repository that can be run in VS Code or coder of choice. Simple clone the https address of the repository.
+The project can be cloned from this repository to a local repository that can be run in VS Code or coder of choice. Simply clone the https address of the repository.
 
 ## Usage
 
-Developers can use this application to generate a fully professional README file from scratch with a template of coordinated inputs with templated contents. It offers a proper way to organize information pertaining to the desired project you're creating.
+Developers can use this application to generate a fully professional README file from scratch with user inputs coordinated to templated contents. It offers a proper way to organize information pertaining to the subjective project you're creating.
 
 ## Contributions
 
